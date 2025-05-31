@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/formations",
-      "destination": "https://celestia-ia.fr/formations",
+      "destination": "https://raw.githubusercontent.com/Guanche3003/CELESTIA/blob/main/formations.html",
       "permanent": true
     }
   ]
